@@ -1,2 +1,2 @@
-pirnt("Hello world!");
-pirnt("Hello");
+pirnt("Hello_world!");
+pirnt("Hello_");

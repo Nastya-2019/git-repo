@@ -1,2 +1,5 @@
-pirnt("Hello_world!");
-pirnt("Hello_");
+print("Hello_world!");
+print("Hello_")
+print("Hello_my_friend");
+print("Glad_to meet you");
+
